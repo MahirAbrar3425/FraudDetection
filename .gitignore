@@ -1,0 +1,8 @@
+# Data
+data/
+*.csv
+
+# Models
+models/
+*.pkl
+*.joblib
