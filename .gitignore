@@ -1,5 +1,6 @@
 # Data
 data/
+creditcard.csv
 *.csv
 
 # Models
