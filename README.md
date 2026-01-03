@@ -17,7 +17,6 @@ Here’s a full example you can drop into your repo:
 7. [Evaluation](#evaluation)
 8. [API & Deployment](#api--deployment)
 9. [Running Locally](#running-locally)
-10. [Resume & Interview Tips](#resume--interview-tips)
 
 ---
 
