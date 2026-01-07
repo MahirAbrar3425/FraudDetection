@@ -1,6 +1,3 @@
-Perfect! Let’s build a **complete, clean, interview-ready README.md** for your **Credit Card Fraud Detection API** project. I’ll make it structured, professional, and easy to follow.
-
-Here’s a full example you can drop into your repo:
 
 ---
 
